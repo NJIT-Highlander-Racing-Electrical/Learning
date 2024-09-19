@@ -1,5 +1,7 @@
 # Learning
 
+Welcome to Baja!
+
 This repository is dedicated to general learning materials to familiarize new students with the work Baja does. 
 
 ## [1. Getting Started with Arduino IDE](Arduino-IDE.md)
