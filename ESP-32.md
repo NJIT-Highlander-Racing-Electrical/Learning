@@ -24,7 +24,7 @@
 
 * Right click the downlaoded folder and extract the files from the ZIP.
 
-* Open the folder and run the CP210xVCPInstaller_x64 application
+* Open the folder and run the *CP210xVCPInstaller_x64* application
 
 ## 4. Select Your Board
 
