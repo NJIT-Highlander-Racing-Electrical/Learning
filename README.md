@@ -12,6 +12,6 @@ An IDE, or Integrated Development Environment, is a software tool that helps pro
 
 ## [2. Programming an ESP32 Microcontroller](ESP32.md)
 
-
+Some standard Arduino boards, like the Arduino Uno, can be programmed without any extra work. However, ESP32 boards require another installation to the IDE to work with the IDE.
 
 ## [3. Intro to CAN-Bus](https://github.com/NJIT-Highlander-Racing-Electrical/CAN-Bus)
