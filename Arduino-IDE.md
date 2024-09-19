@@ -18,7 +18,7 @@ You can set the IDE to dark mode via File -> Preferenecs -> Theme
 
 ### Board Select
 
-Before uploading your code, you must select what type of board you are using. For most of our projects, we will be using ESP32 microcontrollers, but this requires some additional setup as described in [2. Programming an ESP32 Microcontroller.](https://github.com/NJIT-Highlander-Racing-Electrical/Learning/ESP32.md)
+Before uploading your code, you must select what type of board you are using. For most of our projects, we will be using ESP32 microcontrollers, but this requires some additional setup as described in [2. Programming an ESP32 Microcontroller.](https://github.com/NJIT-Highlander-Racing-Electrical/Learning/blob/main/ESP-32.md)
 
 ### Serial Monitor
 
