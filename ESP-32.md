@@ -22,7 +22,7 @@
 
 * Click [this link](https://www.silabs.com/documents/public/software/CP210x_VCP_Windows.zip) to download the required drivers for ESP32 boards from Silicon Labs
 
-* Right click the downloaded folder and extract the files from the ZIP.
+* Right click the downloaded folder and extract the files from the ZIP
 
 * Open the folder and run the *CP210xVCPInstaller_x64* application
 
