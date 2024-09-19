@@ -35,3 +35,12 @@ The debugger in Arduino IDE allows you to step through your code line-by-line an
 ### Library Manager
 
 The Library Manager allows you to install, update, and manage libraries that add new capabilities to your projects. Libraries are sets of pre-written code that make complicated tasks, like working with displays or complex sensors, easier. With the Library Manager, you can search for your sensor or component and find the library that it uses. For something like a display, this will give you all kinds of premade functions to easily display data and text in a variety of fonts and colors. 
+
+
+## Additional Resources
+
+If you are looking to learn more about programming, hardware, and the Arduino IDE, Paul McWhorter has dozens of introductory videos that take you step by step through the Arduino process. His Arduino Tutorials playlist can be found [here](https://www.youtube.com/watch?v=fJWR7dBuc18&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&ab_channel=PaulMcWhorter)
+
+There is also the [Arduino Language Reference](https://www.arduino.cc/reference/en/). This has every built-in/standard function, variable, and program structure explained with examples.
+
+[Adafruit](https://www.adafruit.com/) and [Sparkfun](https://www.sparkfun.com/) are also excellent resources. They sell electronics components that nearly always come with detailed descriptions, datasheets, and programming examples to help get you started.  
