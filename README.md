@@ -6,7 +6,7 @@ This repository is dedicated to general learning materials to familiarize new st
 
 Arduino is a very common open-source electronics platform in the ECE world. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so you use the Arduino programming language and the Arduino Software (IDE).
 
-### What is an IDE?
+#### What is an IDE?
 
 An IDE, or Integrated Development Environment, is a software tool that helps programmers write, test, and debug code more easily. It combines features like a text editor, code suggestions, error checking, and tools to run your code—all in one place.
 
