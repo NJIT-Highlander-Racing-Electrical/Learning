@@ -2,7 +2,7 @@
 
 ### Welcome to Baja!
 
-### This repository is dedicated to general learning materials to familiarize new students with the work Baja does. 
+### This repository is dedicated to general learning materials to familiarize new students with the hardware and software that Baja Electrical uses in its projects.
 
 ## [1. Getting Started with Arduino IDE](Arduino-IDE.md)
 
