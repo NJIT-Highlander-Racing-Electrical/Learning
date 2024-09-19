@@ -14,4 +14,4 @@ An IDE, or Integrated Development Environment, is a software tool that helps pro
 
 
 
-## [3. Intro to CAN-Bus](https://github.com/NJIT-Highlander-Racing-Electrical/CAN-Bus)
+## [3. Intro to CAN-Bus](https://github.com/NJIT-Highlander-Racing-Electrical/CAN-Bus/README.md)
