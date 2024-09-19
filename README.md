@@ -12,7 +12,7 @@ Arduino is a very common open-source electronics platform in the ECE world. Ardu
 
 An IDE, or Integrated Development Environment, is a software tool that helps programmers write, test, and debug code more easily. It combines features like a text editor, code suggestions, error checking, and tools to run your code—all in one place.
 
-## [2. Programming an ESP32 Microcontroller](ESP32.md)
+## [2. Programming an ESP32 Microcontroller](ESP-32.md)
 
 Some standard Arduino boards, like the Arduino Uno, can be programmed without any extra work. However, ESP32 boards require another installation to the IDE to work with the IDE.
 
