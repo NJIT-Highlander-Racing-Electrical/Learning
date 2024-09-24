@@ -33,4 +33,5 @@
 * If you currently have a board connected, you may see a COM port, and you can click this. If not, click "Select other board and port"
 
 * Now, you are able to search for your specific board model. In most cases, we will be using "ESP32 Dev Module." This is a general driver that works with many commonly sold ESP32 boards
-
+   * Also note, some boards that look like [this](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instructables.com%2FESP32-Internal-Details-and-Pinout%2F&psig=AOvVaw0eAobmugqPfx9SuD1qVDpw&ust=1727239334852000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCJ04ni2ogDFQAAAAAdAAAAABAd) may be compatible with the "Node32s" board profile, which allows for uploading without needing to fiddle with the EN/BOOT buttons
+ 
